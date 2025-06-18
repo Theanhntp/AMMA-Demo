@@ -1,0 +1,8 @@
+node_modules/
+src/
+dist/
+public/
+.env
+*.js
+*.lock
+vite.config.js
