@@ -1,7 +1,7 @@
 # AMMA – Nền Tảng Tư Vấn Y Tế Thông Minh Tích Hợp AI
 
 <p align="center">
-  <img src="/client/IMG/logo.png" alt="MediAI Logo" width="200" />
+  <img src="/IMG/logo.png" alt="MediAI Logo" width="200" />
 </p>
 
 **AMMA** là một hệ thống hỗ trợ tư vấn sức khỏe và quản lý khám bệnh thông minh, tích hợp AI sử dụng công nghệ **Prompt Engineering** trên nền tảng Coze. Dự án giúp người dùng đánh giá triệu chứng, kết nối với bác sĩ, lưu trữ hồ sơ y tế và cung cấp kiến thức sức khỏe một cách trực quan.
@@ -41,7 +41,7 @@
 - Duyệt/phê duyệt nội dung blog.
 
 <p align="center">
-  <img src="/client/IMG/Chatbot.png" alt="AI Chatbot" width="400" />
+  <img src="/IMG/Chatbot.png" alt="AI Chatbot" width="400" />
   <br><i>AI Chatbot hỗ trợ tư vấn sức khỏe</i>
 </p>
 
@@ -78,10 +78,10 @@ Dưới đây là một số hình ảnh chụp màn hình minh họa giao diệ
 
 | **Tính Năng**            | **Hình Ảnh**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **Giao diện chính**      | <img src="/client/IMG/Main-menu.png" alt="Main Interface" width="300" /> |
-| **Đặt lịch khám**        | <img src="/client/IMG/BookingAppointment.png" alt="Booking Appointment" width="300" /> |
-| **Đặt lịch bác sĩ**      | <img src="/client/IMG/DoctorBooking.png" alt="Doctor Appointment" width="300" /> |
-| **Cập nhật hồ sơ**            | <img src="/client/IMG/Updateprofile.png" alt="Update Profile" width="300" /> |
+| **Giao diện chính**      | <img src="/IMG/Main-menu.png" alt="Main Interface" width="300" /> |
+| **Đặt lịch khám**        | <img src="/IMG/BookingAppointment.png" alt="Booking Appointment" width="300" /> |
+| **Đặt lịch bác sĩ**      | <img src="/IMG/DoctorBooking.png" alt="Doctor Appointment" width="300" /> |
+| **Cập nhật hồ sơ**            | <img src="/IMG/Updateprofile.png" alt="Update Profile" width="300" /> |
 
 ---
 
