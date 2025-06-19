@@ -48,6 +48,11 @@
 - Duyệt/phê duyệt nội dung blog.
 
 <p align="center">
+  <img src="/IMG/Usecase.png" alt="Use Case Diagram" width="800" />
+  <br><i>Sơ đồ Use Case mô tả các chức năng chính theo vai trò người dùng</i>
+</p>
+
+<p align="center">
   <img src="/IMG/Chatbot.png" alt="AI Chatbot" width="400" />
   <br><i>AI Chatbot hỗ trợ tư vấn sức khỏe</i>
 </p>
