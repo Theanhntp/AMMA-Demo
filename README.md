@@ -174,6 +174,6 @@ REACT_APP_BE_URL=http://localhost:8080
 <p align="center">
   <strong>MediAI</strong> – Sức khỏe trong tầm tay bạn!
 </p>
-
----
-*Hình ảnh được lấy từ [Amma Care](https://amma-care.com/) để minh họa cho các tính năng của MediAI.*
+<p align="center">
+  theanhntp@gmail.com
+</p>
