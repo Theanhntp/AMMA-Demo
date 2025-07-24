@@ -11,9 +11,10 @@
 ## 🎯 DEMO TẠI
 <p align="center">
   https://theanhntp.github.io/AMMA-Demo/
+</p>
+<p align="center">
   #lưu ý đây chỉ là trang HTML tĩnh#
 </p>
-
 ---
 
 ## 🎯 Mục Tiêu Hệ Thống
