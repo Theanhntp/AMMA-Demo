@@ -11,6 +11,7 @@
 ## 🎯 DEMO TẠI
 <p align="center">
   https://theanhntp.github.io/AMMA-Demo/
+  #lưu ý đây chỉ là trang HTML tĩnh#
 </p>
 
 ---
